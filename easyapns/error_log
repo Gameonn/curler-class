@@ -1,0 +1,163 @@
+[07-Apr-2015 02:05:38 America/Chicago] PHP Fatal error:  Missing Production Certificate.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::checkSetup -> File: class_APNS.php (line 218)
+	3) APNS::_triggerError -> File: class_APNS.php (line 277)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:06:29 America/Chicago] PHP Fatal error:  Missing Production Certificate.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::checkSetup -> File: class_APNS.php (line 218)
+	3) APNS::_triggerError -> File: class_APNS.php (line 277)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:10:50 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:12:09 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:12:49 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:13:09 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:14:23 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:14:25 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:16:11 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:16:17 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:17:07 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:18:44 America/Chicago] PHP Fatal error:  Device ID may not be more than 40 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 313)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[07-Apr-2015 02:20:43 America/Chicago] PHP Fatal error:  Device Token must be 64 characters in length.
+
+	1) APNS::__construct -> File: apns.php (line 50)
+	2) APNS::_registerDevice -> File: class_APNS.php (line 251)
+	3) APNS::_triggerError -> File: class_APNS.php (line 314)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[09-Apr-2015 10:39:52 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(68).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[09-Apr-2015 10:39:52 America/Chicago] PHP Fatal error:  APNS responded with error for pid(68). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[30-Jun-2015 02:10:33 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(114).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[30-Jun-2015 02:10:33 America/Chicago] PHP Fatal error:  APNS responded with error for pid(114). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[30-Jun-2015 02:12:40 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(115).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[30-Jun-2015 02:12:40 America/Chicago] PHP Fatal error:  APNS responded with error for pid(115). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[30-Jun-2015 02:13:17 America/Chicago] PHP Notice:  APNS responded with command(8) status(8) pid(116).
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 594)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
+[30-Jun-2015 02:13:17 America/Chicago] PHP Fatal error:  APNS responded with error for pid(116). status(8: Invalid token)
+
+	1) APNS::processQueue -> File: samples.php (line 99)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1122)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 413)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 465)
+	5) APNS::_triggerError -> File: class_APNS.php (line 600)
+
+ in /home3/codebrew/public_html/projects/nusit/easyapns/classes/class_APNS.php on line 703
